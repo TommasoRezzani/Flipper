@@ -1,0 +1,24 @@
+# Cartelle auto-generate e di cache di Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# File di progetto generati dagli IDE (Visual Studio, VS Code, Rider)
+.vscode/
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.opendb
+*.sdf
+*.xcworkspace
+*.xcodeproj
+Makefile
+CMakeLists.txt
+
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
